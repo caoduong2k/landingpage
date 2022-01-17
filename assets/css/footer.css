@@ -1,0 +1,29 @@
+footer ul li {
+  margin-bottom: 12px;
+}
+
+.contact-footer {
+  position: relative;
+  padding-left: 24px;
+  margin-bottom: 12px;
+}
+
+.contact-footer i {
+  position: absolute;
+  left: 0;
+  top: 4px;
+  color: #99ac45;
+}
+
+a.footer-link {
+  display: inline-block;
+  text-decoration: none;
+  color: #191919;
+  transition: all .25s;
+}
+
+a.footer-link:hover {
+  color: #99ac45;
+  text-decoration: underline;
+  padding-left: 4px;
+}

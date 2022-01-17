@@ -1,0 +1,11 @@
+body {
+  color: #191919;
+}
+
+.no-border {
+  border: none!important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
